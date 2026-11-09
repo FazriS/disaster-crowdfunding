@@ -72,8 +72,8 @@ Ikuti langkah-langkah berikut untuk menginisialisasi projek pada komputer atau l
 
 ### 1. Kloning Repositori
 ```bash
-git clone https://github.com/USERNAME_ANDA/NAMA_REPO_ANDA.git
-cd NAMA_REPO_ANDA
+git clone https://github.com/FazriS/disaster-crowdfunding.git
+cd disaster-crowdfunding
 ```
 
 ### 2. Pasang Dependensi
