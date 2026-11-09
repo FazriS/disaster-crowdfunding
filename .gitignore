@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Hardhat & Solidity build outputs
+artifacts/
+cache/
+typechain-types/
+types/
+
+# Environment variables & Private keys (PENTING untuk keamanan)
+.env
+.env.*
+!.env.example
+
+# Hardhat Ignition deployment logs & state
+ignition/deployments/
+
+# Test coverage
+coverage/
+coverage.json
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
